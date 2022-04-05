@@ -44,4 +44,6 @@ Até a próxima!
 __TODOS OS DIREITOS RESERVADOS A ESCOLA DIGITAL HOUSE CODING SCHOOL__
 <br> <br>
 
+
+![alt logo-ctd](https://vidadeempresa.com.br/wp-content/uploads/2021/02/curso.png)
 <img href="https://vidadeempresa.com.br/wp-content/uploads/2021/02/curso.png" alt='logo ctd'/>
